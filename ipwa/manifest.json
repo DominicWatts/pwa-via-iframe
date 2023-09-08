@@ -1,7 +1,7 @@
 {
     "short_name": "Circleloop PWA",
     "name": "Circleloop PWA",
-    "description": "My Progressive Web App via iframe",
+    "description": "Circleloop PWA",
     "id": "/ipwa/",
     "start_url": "/ipwa/",
     "display": "standalone",
